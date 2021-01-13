@@ -1,0 +1,32 @@
+input, h5{
+    width: 100%;
+    text-align: center;
+    background-color: #4DB8A1;
+    border: none;
+}
+
+body{
+    margin-top: 30px;
+    background-color: rgb(153, 238, 238);
+    font-family: monospace;
+    font-size: 15px;
+
+}
+
+.fundo{
+    background-color: #0B1337;
+    width: 100%;
+}
+
+label{
+    color: white;
+}
+
+#min, #max{
+    width: 43%;
+}
+
+button{
+    background-color: #0B1337;
+    color: white;
+}
